@@ -1,0 +1,2 @@
+The files were used for my final report for LING 583-01 Spring 2025. To run these files, download main4.py, config, and requirements. Update the config file with your own credentials, install requirements. Run main4.py to generate tweets.csv. 
+Put tweets.csv in the same folder as the jupyter notebook. Update the notebook with your own openAI api key. Run the notebook to generate cluster_tweets, which contains the clusters, the associated tweets in each cluster, and the AI generated summary of the cluster. 
